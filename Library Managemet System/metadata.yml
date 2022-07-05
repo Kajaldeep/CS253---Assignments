@@ -1,0 +1,12 @@
+---
+:id: 120472222
+:submitters:
+- :name: 200483 KAJAL DEEP
+  :email: kajald20@iitk.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-07 18:22:41.441380000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-07 11:22:41.441380000 Z
+:status: processed
+:score: 32.0

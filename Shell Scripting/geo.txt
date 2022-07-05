@@ -1,0 +1,12 @@
+Distant Rural
+Distant Town
+Fringe Rural
+Fringe Town
+Large City
+Large Suburb
+Mid-size City
+Mid-size Suburb
+Remote Rural
+Remote Town
+Small City
+Small Suburb
